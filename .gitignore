@@ -1,7 +1,7 @@
 voices-v1.0.bin
 /vosk-model-small-es-0.42
 kokoro-v1.0.onnx
-captura.py
-textoAVoz.py
-vozATexto.py
+#captura.py
+#textoAVoz.py
+#vozATexto.py
 vosk-model-small-es-0.42.zip
